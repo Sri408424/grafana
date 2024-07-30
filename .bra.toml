@@ -21,3 +21,4 @@ cmds = [
   ["./bin/grafana", "server", "-packaging=dev", "cfg:app_mode=development"]
 ]
 fist change
+second change 
