@@ -20,3 +20,4 @@ cmds = [
   ["make", "gen-jsonnet"],
   ["./bin/grafana", "server", "-packaging=dev", "cfg:app_mode=development"]
 ]
+fist change
